@@ -10,9 +10,5 @@ This is a simple chatbot application developed using Python, `Streamlit`, `nltk`
 - Uses TF-IDF and Logistic Regression for intent classification.
 - Interactive interface using Streamlit.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/chatbot-app.git
 
